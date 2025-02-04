@@ -30,4 +30,4 @@ Example:
 
 ## 📡 Network Topology
 ### **Diagram**
-Provide a network topology diagram (use Draw.io, Lucidchart, or any tool). Example:
+![BGP Network Topology](./Screenshot%202025-02-04%20190854.png)
